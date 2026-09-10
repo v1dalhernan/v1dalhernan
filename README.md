@@ -70,6 +70,8 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ### [Schedule: Horario y Tareas · Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.schedule_app)
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Schedule:_Horario_y_Tareas-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.threedors.schedule_app)
+
 **ES:** Aplicación móvil activa en Google Play Store para la organización de horarios de clase, asignaturas y tareas académicas. Desarrollada en **Flutter** con arquitectura limpia, persistencia local en **SQLite**, notificaciones y recordatorios en segundo plano, soporte multilenguaje y widgets de pantalla de inicio.
 
 **EN:** Live production mobile application available on Google Play Store for managing class schedules, subjects, and academic tasks. Built with **Flutter** featuring Clean Architecture, local **SQLite** persistence, background notifications and reminders, multi-language localization, and home screen widgets.
