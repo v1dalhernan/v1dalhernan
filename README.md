@@ -26,6 +26,14 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
+### 🛒 [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
+
+**ES:** Aplicación móvil de marketplace y cuponera desarrollada en **Flutter** con **Feature-First Clean Architecture**, gestión de estado con **BLoC**, carrito de compras, catálogo categorizado, billetera de cupones con validación dinámica de código QR y un **motor determinista de modo demo/training** que permite ejecutar la app de forma 100% offline sin dependencias externas.
+
+**EN:** Full-featured deals and coupons marketplace mobile app built in **Flutter** with **Feature-First Clean Architecture**, **BLoC State Management**, shopping cart, dynamic QR coupon redemption, and a **deterministic offline training engine** supporting zero-credential simulated backend scenarios.
+
+---
+
 ### 🟢 [NestJS Clean Architecture API](https://github.com/v1dalhernan/nestjs-clean-architecture-api)
 
 **ES:** API RESTful empresarial desarrollada con **NestJS** y **TypeScript**, implementando **Arquitectura Hexagonal / Limpia**, autenticación segura **JWT con Passport**, hashing con **bcrypt**, persistencia desacoplada con **TypeORM (SQLite)**, validación con `class-validator`, documentación interactiva con **Swagger / OpenAPI 3.0** y pruebas unitarias con **Jest**.
