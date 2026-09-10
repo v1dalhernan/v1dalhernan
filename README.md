@@ -16,17 +16,9 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-## 🚀 Proyectos Destacados · Featured Showcases
+## Proyectos Destacados · Featured Showcases
 
-### 📱 [Flutter Clean Architecture Showcase](https://github.com/v1dalhernan/flutter-clean-architecture-showcase)
-
-**ES:** Aplicación móvil offline-first desarrollada con **Flutter**, aplicando estrictamente **Clean Architecture** (separación en capas *Domain*, *Data*, *Presentation* y *Core*), gestión de estado con **BLoC**, inyección de dependencias con `get_it`, persistencia local en **SQLite** (`sqflite`) y cobertura completa de pruebas unitarias y de BLoC con `mocktail` y `bloc_test`.
-
-**EN:** Production-grade offline-first mobile application built with **Flutter**, demonstrating **Clean Architecture** (*Domain*, *Data*, *Presentation*, and *Core* layers), **BLoC State Management**, `get_it` dependency injection, local **SQLite** persistence (`sqflite`), and 100% passing unit & BLoC tests with `mocktail` and `bloc_test`.
-
----
-
-### 🛒 [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
+### [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
 
 **ES:** Aplicación móvil de marketplace y cuponera desarrollada en **Flutter** con **Feature-First Clean Architecture**, gestión de estado con **BLoC**, carrito de compras, catálogo categorizado, billetera de cupones con validación dinámica de código QR y un **motor determinista de modo demo/training** que permite ejecutar la app de forma 100% offline sin dependencias externas.
 
@@ -34,7 +26,15 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-### 🟢 [NestJS Clean Architecture API](https://github.com/v1dalhernan/nestjs-clean-architecture-api)
+### [Flutter Clean Architecture Showcase](https://github.com/v1dalhernan/flutter-clean-architecture-showcase)
+
+**ES:** Aplicación móvil offline-first desarrollada con **Flutter**, aplicando estrictamente **Clean Architecture** (separación en capas *Domain*, *Data*, *Presentation* y *Core*), gestión de estado con **BLoC**, inyección de dependencias con `get_it`, persistencia local en **SQLite** (`sqflite`) y cobertura completa de pruebas unitarias y de BLoC con `mocktail` y `bloc_test`.
+
+**EN:** Production-grade offline-first mobile application built with **Flutter**, demonstrating **Clean Architecture** (*Domain*, *Data*, *Presentation*, and *Core* layers), **BLoC State Management**, `get_it` dependency injection, local **SQLite** persistence (`sqflite`), and 100% passing unit & BLoC tests with `mocktail` and `bloc_test`.
+
+---
+
+### [NestJS Clean Architecture API](https://github.com/v1dalhernan/nestjs-clean-architecture-api)
 
 **ES:** API RESTful empresarial desarrollada con **NestJS** y **TypeScript**, implementando **Arquitectura Hexagonal / Limpia**, autenticación segura **JWT con Passport**, hashing con **bcrypt**, persistencia desacoplada con **TypeORM (SQLite)**, validación con `class-validator`, documentación interactiva con **Swagger / OpenAPI 3.0** y pruebas unitarias con **Jest**.
 
@@ -42,7 +42,7 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-### 🅰️ [Angular 18 Clean Architecture Dashboard](https://github.com/v1dalhernan/angular-clean-architecture-dashboard)
+### [Angular 18 Clean Architecture Dashboard](https://github.com/v1dalhernan/angular-clean-architecture-dashboard)
 
 **ES:** Panel de administración y dashboard reactivo construido con **Angular 18**, aprovechando las últimas capacidades del framework: **Standalone Components** (sin NgModules), reactividad reactiva con **Angular Signals** (`signal`, `computed`), arquitectura de componentes inteligentes y de presentación (*Smart & Dumb components*), formularios reactivos y desacoplamiento de almacenamiento.
 
@@ -50,7 +50,7 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-### 🍎 [Paws · iOS App](https://github.com/v1dalhernan/Paws)
+### [Paws · iOS App](https://github.com/v1dalhernan/Paws)
 
 **ES:** Aplicación nativa para iOS desarrollada con **SwiftUI** y **SwiftData** para registrar mascotas, editar información, seleccionar fotografías mediante `PhotosPicker` y persistir datos localmente.
 
@@ -58,7 +58,7 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-### 🌐 [Consola de Información de Ciudad](https://github.com/v1dalhernan/consola-informacion-de-ciudad)
+### [Consola de Información de Ciudad](https://github.com/v1dalhernan/consola-informacion-de-ciudad)
 
 **ES:** Herramienta de línea de comandos en **Node.js** que interactúa con las APIs de Mapbox y OpenWeather, gestionando variables de entorno, peticiones con Axios e historial con persistencia JSON.
 
@@ -66,13 +66,13 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-## 🛠️ Tecnologías · Tech Stack
+## Tecnologías · Tech Stack
 
 `Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `Git`
 
 ---
 
-## 💼 Oportunidades · Opportunities
+## Oportunidades · Opportunities
 
 **ES:** Disponible para oportunidades laborales (Full-time / Remoto) y proyectos freelance de alto impacto en desarrollo móvil y fullstack.
 
