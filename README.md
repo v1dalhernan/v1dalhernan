@@ -1,13 +1,12 @@
 # Jhonathan Vidal
 
-**Ingeniero de software y programador · Software Engineer & Programmer**
+**Ingeniero de Software y Desarrollador Fullstack · Software Engineer & Fullstack Mobile/Web Developer**
 
-Construyo proyectos personales con SwiftUI, SwiftData y Node.js, desde
-aplicaciones móviles locales hasta herramientas de consola que integran servicios
-externos.
+Especializado en **Clean Architecture**, aplicaciones móviles nativas y multiplataforma (**Flutter**, **SwiftUI**) y desarrollo backend y frontend empresarial (**NestJS**, **Angular**, **Node.js**).
 
-I build personal projects with SwiftUI, SwiftData, and Node.js, from local mobile
-apps to command-line tools that integrate external services.
+Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Flutter**, **SwiftUI**), and enterprise backend/frontend systems (**NestJS**, **Angular**, **Node.js**).
+
+---
 
 ## Contacto · Contact
 
@@ -15,55 +14,58 @@ apps to command-line tools that integrate external services.
 [LinkedIn](https://www.linkedin.com/in/jhonathan-vidal/) ·
 [GitHub](https://github.com/v1dalhernan)
 
-## Proyectos destacados · Featured projects
+---
 
-### [Paws](https://github.com/v1dalhernan/Paws)
+## 🚀 Proyectos Destacados · Featured Showcases
 
-**ES:** Aplicación iOS para registrar mascotas, editar sus nombres, seleccionar
-fotografías y conservar los datos localmente. Muestra SwiftUI, SwiftData,
-navegación y `PhotosPicker` en un flujo CRUD.
+### 📱 [Flutter Clean Architecture Showcase](https://github.com/v1dalhernan/flutter-clean-architecture-showcase)
 
-**EN:** An iOS app for recording pets, editing their names, choosing photos, and
-keeping data locally. It demonstrates SwiftUI, SwiftData, navigation, and
-`PhotosPicker` in a CRUD flow.
+**ES:** Aplicación móvil offline-first desarrollada con **Flutter**, aplicando estrictamente **Clean Architecture** (separación en capas *Domain*, *Data*, *Presentation* y *Core*), gestión de estado con **BLoC**, inyección de dependencias con `get_it`, persistencia local en **SQLite** (`sqflite`) y cobertura completa de pruebas unitarias y de BLoC con `mocktail` y `bloc_test`.
 
-### [Consola de información de ciudad](https://github.com/v1dalhernan/consola-informacion-de-ciudad)
+**EN:** Production-grade offline-first mobile application built with **Flutter**, demonstrating **Clean Architecture** (*Domain*, *Data*, *Presentation*, and *Core* layers), **BLoC State Management**, `get_it` dependency injection, local **SQLite** persistence (`sqflite`), and 100% passing unit & BLoC tests with `mocktail` and `bloc_test`.
 
-**ES:** Herramienta de línea de comandos que busca ciudades con Mapbox, consulta
-el clima con OpenWeather y mantiene un historial local. Muestra Node.js, Axios,
-variables de entorno y persistencia JSON.
+---
 
-**EN:** A command-line tool that searches cities with Mapbox, checks weather with
-OpenWeather, and keeps local history. It demonstrates Node.js, Axios,
-environment variables, and JSON persistence.
+### 🟢 [NestJS Clean Architecture API](https://github.com/v1dalhernan/nestjs-clean-architecture-api)
 
-### [Hike](https://github.com/v1dalhernan/Hike)
+**ES:** API RESTful empresarial desarrollada con **NestJS** y **TypeScript**, implementando **Arquitectura Hexagonal / Limpia**, autenticación segura **JWT con Passport**, hashing con **bcrypt**, persistencia desacoplada con **TypeORM (SQLite)**, validación con `class-validator`, documentación interactiva con **Swagger / OpenAPI 3.0** y pruebas unitarias con **Jest**.
 
-**ES:** Ejercicio de curso con SwiftUI centrado en tarjetas, animaciones, recursos
-gráficos e iconos alternativos de la aplicación.
+**EN:** Enterprise-ready RESTful API built with **NestJS** and **TypeScript**, showcasing **Hexagonal / Clean Architecture**, secure **JWT Authentication with Passport**, **TypeORM (SQLite)** persistence, strict DTO validation, interactive **Swagger / OpenAPI 3.0** documentation, and unit testing with **Jest**.
 
-**EN:** A SwiftUI course exercise focused on cards, animations, visual assets,
-and alternate app icons.
+---
 
-### [Watchlist](https://github.com/v1dalhernan/Watchlist)
+### 🅰️ [Angular 18 Clean Architecture Dashboard](https://github.com/v1dalhernan/angular-clean-architecture-dashboard)
 
-**ES:** Aplicación local para guardar películas con género, eliminarlas de la
-lista y elegir una al azar. Complementa Paws con un formulario SwiftData,
-validación de títulos, estado vacío e interacción orientada a contenido.
+**ES:** Panel de administración y dashboard reactivo construido con **Angular 18**, aprovechando las últimas capacidades del framework: **Standalone Components** (sin NgModules), reactividad reactiva con **Angular Signals** (`signal`, `computed`), arquitectura de componentes inteligentes y de presentación (*Smart & Dumb components*), formularios reactivos y desacoplamiento de almacenamiento.
 
-**EN:** A local app for saving films with a genre, removing them from a list, and
-choosing one at random. It complements Paws with a SwiftData form, title
-validation, an empty state, and content-focused interaction.
+**EN:** Modern reactive web dashboard built with **Angular 18**, utilizing framework advancements: **Standalone Components**, fine-grained reactivity via **Angular Signals** (`signal`, `computed`), **Smart & Dumb Component Pattern**, reactive forms, and decoupled repository storage.
 
-## Tecnologías · Technologies
+---
 
-`Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `JavaScript` · `Axios` ·
-`Mapbox` · `OpenWeather`
+### 🍎 [Paws · iOS App](https://github.com/v1dalhernan/Paws)
 
-## Oportunidades · Opportunities
+**ES:** Aplicación nativa para iOS desarrollada con **SwiftUI** y **SwiftData** para registrar mascotas, editar información, seleccionar fotografías mediante `PhotosPicker` y persistir datos localmente.
 
-Busco oportunidades laborales y proyectos freelance. Este portafolio reúne
-ejemplos de interfaces móviles, persistencia local e integración de APIs.
+**EN:** Native iOS application built with **SwiftUI** and **SwiftData** to register pets, edit records, choose photos using `PhotosPicker`, and store data locally in a modern CRUD flow.
 
-I am open to employment opportunities and freelance projects. This portfolio
-includes examples of mobile interfaces, local persistence, and API integrations.
+---
+
+### 🌐 [Consola de Información de Ciudad](https://github.com/v1dalhernan/consola-informacion-de-ciudad)
+
+**ES:** Herramienta de línea de comandos en **Node.js** que interactúa con las APIs de Mapbox y OpenWeather, gestionando variables de entorno, peticiones con Axios e historial con persistencia JSON.
+
+**EN:** Command-line automation tool in **Node.js** integrating Mapbox and OpenWeather APIs with environment variables, Axios HTTP requests, and JSON persistence.
+
+---
+
+## 🛠️ Tecnologías · Tech Stack
+
+`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `Git`
+
+---
+
+## 💼 Oportunidades · Opportunities
+
+**ES:** Disponible para oportunidades laborales (Full-time / Remoto) y proyectos freelance de alto impacto en desarrollo móvil y fullstack.
+
+**EN:** Open to full-time remote software engineering roles and high-impact freelance projects in mobile and fullstack engineering.
