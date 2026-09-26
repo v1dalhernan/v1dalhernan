@@ -28,14 +28,6 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
-### [Tablora · Diseñador visual de bases de datos · Flutter App](https://github.com/v1dalhernan/database)
-
-**ES:** Editor visual de esquemas de bases de datos para teléfono y tablet, desarrollado en **Flutter** con **Feature-First Clean Architecture** y gestión de estado con **BLoC**. Permite crear tablas, columnas, claves primarias y foráneas, índices, enumeraciones, notas y grupos sobre un lienzo con zoom y desplazamiento. **Importa SQL o DBML**, **genera SQL para PostgreSQL, MySQL y SQLite**, exporta a DBML o como imagen PNG, y funciona **100% offline** con persistencia local en **Hive**, sin cuentas. Incluye tema claro y oscuro, ficha de tienda en cinco idiomas y compras opcionales de apoyo con **Google Play Billing**.
-
-**EN:** Visual database schema designer for phones and tablets, built with **Flutter** using **Feature-First Clean Architecture** and **BLoC State Management**. Create tables, columns, primary and foreign keys, indexes, enums, notes and groups on a zoomable, pannable canvas. **Imports SQL or DBML**, **generates SQL for PostgreSQL, MySQL and SQLite**, exports DBML or PNG images, and works **fully offline** with local **Hive** persistence and no account required. Features light and dark themes, a five-language store listing, and optional one-time supporter purchases via **Google Play Billing**.
-
----
-
 ### [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
 
 **ES:** Aplicación móvil de marketplace y cuponera desarrollada en **Flutter** con **Feature-First Clean Architecture**, gestión de estado con **BLoC**, carrito de compras, catálogo categorizado, billetera de cupones con validación dinámica de código QR y un **motor determinista de modo demo/training** que permite ejecutar la app de forma 100% offline sin dependencias externas.
@@ -95,6 +87,18 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 **EN:** Live production mobile application available on Google Play Store for managing class schedules, subjects, and academic tasks. Built with **Flutter** featuring Clean Architecture, local **SQLite** persistence, background notifications and reminders, multi-language localization, and home screen widgets.
 
 - Enlace directo / Direct link: [Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.schedule_app)
+
+---
+
+### [Tablora: Diagramas de BD · Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.table_database)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Tablora:_Diagramas_de_BD-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.threedors.table_database)
+
+**ES:** Aplicación móvil activa en Google Play Store para diseñar esquemas de bases de datos de forma visual desde el teléfono o la tablet. Desarrollada en **Flutter** con arquitectura limpia y **BLoC**, permite crear tablas, relaciones, índices y enumeraciones en un lienzo con zoom, **importar SQL o DBML** y **generar SQL para PostgreSQL, MySQL y SQLite**, exportar a DBML o PNG, y trabajar **100% offline** con persistencia local en **Hive**.
+
+**EN:** Live production mobile application available on Google Play Store for visually designing database schemas on phones and tablets. Built with **Flutter** featuring Clean Architecture and **BLoC**, it lets you create tables, relationships, indexes and enums on a zoomable canvas, **import SQL or DBML**, **generate SQL for PostgreSQL, MySQL and SQLite**, export DBML or PNG, and work **fully offline** with local **Hive** persistence.
+
+- Enlace directo / Direct link: [Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.table_database)
 
 ---
 
