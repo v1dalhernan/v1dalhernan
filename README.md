@@ -90,9 +90,21 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
+### [Tablora: Diagramas de BD · Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.table_database)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Tablora:_Diagramas_de_BD-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.threedors.table_database)
+
+**ES:** Aplicación móvil activa en Google Play Store para diseñar esquemas de bases de datos de forma visual desde el teléfono o la tablet. Desarrollada en **Flutter** con arquitectura limpia y **BLoC**, permite crear tablas, relaciones, índices y enumeraciones en un lienzo con zoom, **importar SQL o DBML** y **generar SQL para PostgreSQL, MySQL y SQLite**, exportar a DBML o PNG, y trabajar **100% offline** con persistencia local en **Hive**.
+
+**EN:** Live production mobile application available on Google Play Store for visually designing database schemas on phones and tablets. Built with **Flutter** featuring Clean Architecture and **BLoC**, it lets you create tables, relationships, indexes and enums on a zoomable canvas, **import SQL or DBML**, **generate SQL for PostgreSQL, MySQL and SQLite**, export DBML or PNG, and work **fully offline** with local **Hive** persistence.
+
+- Enlace directo / Direct link: [Google Play Store](https://play.google.com/store/apps/details?id=com.threedors.table_database)
+
+---
+
 ## Tecnologías · Tech Stack
 
-`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Kotlin` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `GitHub Actions` · `Git`
+`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Kotlin` · `Swift` · `SwiftUI` · `SwiftData` · `Hive` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `GitHub Actions` · `Git`
 
 ---
 
