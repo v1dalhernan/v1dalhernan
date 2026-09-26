@@ -18,6 +18,16 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ## Proyectos Destacados · Featured Showcases
 
+### [Trama · Mensajería offline en malla · Flutter App](https://github.com/v1dalhernan/message_blue)
+
+[![Descargar APK demo](https://img.shields.io/badge/Descargar-APK_demo-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/v1dalhernan/message_blue/releases/latest)
+
+**ES:** Mensajería sin Internet entre teléfonos cercanos desarrollada en **Flutter** sobre **Google Nearby Connections** (Bluetooth, BLE y Wi-Fi). Los dispositivos forman una **red en malla multi-salto**: un chat privado de A a C puede viajar a través de B sin que B pueda leerlo, gracias a **cifrado de extremo a extremo** (X25519 + HKDF + AES-256-GCM). Incluye verificación de enlaces con PIN rotativo, texto, fotos y notas de voz, ediciones, confirmaciones de lectura, entrega diferida, servicio nativo en **Kotlin** y **CI/CD con GitHub Actions** que publica los APK en cada versión.
+
+**EN:** Offline peer-to-peer messenger built with **Flutter** on **Google Nearby Connections** (Bluetooth, BLE, Wi-Fi). Phones form a **multi-hop mesh network**: a private chat from A to C can be relayed through B without B being able to read it, using **end-to-end encryption** (X25519 + HKDF + AES-256-GCM). Features rotating-PIN link verification, text, photos and voice notes, edits, read receipts, store-and-forward delivery, a native **Kotlin** foreground service, and **GitHub Actions CI/CD** that publishes APKs on every release.
+
+---
+
 ### [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
 
 **ES:** Aplicación móvil de marketplace y cuponera desarrollada en **Flutter** con **Feature-First Clean Architecture**, gestión de estado con **BLoC**, carrito de compras, catálogo categorizado, billetera de cupones con validación dinámica de código QR y un **motor determinista de modo demo/training** que permite ejecutar la app de forma 100% offline sin dependencias externas.
@@ -82,7 +92,7 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ## Tecnologías · Tech Stack
 
-`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `Git`
+`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Kotlin` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `GitHub Actions` · `Git`
 
 ---
 
