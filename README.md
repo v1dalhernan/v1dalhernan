@@ -28,6 +28,14 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ---
 
+### [Tablora · Diseñador visual de bases de datos · Flutter App](https://github.com/v1dalhernan/database)
+
+**ES:** Editor visual de esquemas de bases de datos para teléfono y tablet, desarrollado en **Flutter** con **Feature-First Clean Architecture** y gestión de estado con **BLoC**. Permite crear tablas, columnas, claves primarias y foráneas, índices, enumeraciones, notas y grupos sobre un lienzo con zoom y desplazamiento. **Importa SQL o DBML**, **genera SQL para PostgreSQL, MySQL y SQLite**, exporta a DBML o como imagen PNG, y funciona **100% offline** con persistencia local en **Hive**, sin cuentas. Incluye tema claro y oscuro, ficha de tienda en cinco idiomas y compras opcionales de apoyo con **Google Play Billing**.
+
+**EN:** Visual database schema designer for phones and tablets, built with **Flutter** using **Feature-First Clean Architecture** and **BLoC State Management**. Create tables, columns, primary and foreign keys, indexes, enums, notes and groups on a zoomable, pannable canvas. **Imports SQL or DBML**, **generates SQL for PostgreSQL, MySQL and SQLite**, exports DBML or PNG images, and works **fully offline** with local **Hive** persistence and no account required. Features light and dark themes, a five-language store listing, and optional one-time supporter purchases via **Google Play Billing**.
+
+---
+
 ### [Deals & Coupons Marketplace · Flutter App](https://github.com/v1dalhernan/flutter-deals-marketplace)
 
 **ES:** Aplicación móvil de marketplace y cuponera desarrollada en **Flutter** con **Feature-First Clean Architecture**, gestión de estado con **BLoC**, carrito de compras, catálogo categorizado, billetera de cupones con validación dinámica de código QR y un **motor determinista de modo demo/training** que permite ejecutar la app de forma 100% offline sin dependencias externas.
@@ -92,7 +100,7 @@ Specialized in **Clean Architecture**, native & cross-platform mobile apps (**Fl
 
 ## Tecnologías · Tech Stack
 
-`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Kotlin` · `Swift` · `SwiftUI` · `SwiftData` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `GitHub Actions` · `Git`
+`Flutter` · `Dart` · `BLoC` · `NestJS` · `TypeScript` · `Angular 18` · `Angular Signals` · `Kotlin` · `Swift` · `SwiftUI` · `SwiftData` · `Hive` · `Node.js` · `TypeORM` · `SQLite` · `Swagger / OpenAPI` · `Clean Architecture` · `Jest` · `GitHub Actions` · `Git`
 
 ---
 
